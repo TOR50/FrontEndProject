@@ -44,3 +44,5 @@ The application will be available at `http://localhost:3000`.
 - **Checkout**: Review your cart and proceed to checkout.
 
 ## Project Structure
+![Product Page](./images/2.jpeg).
+![Cart](./images/1.jpeg).
